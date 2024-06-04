@@ -1,0 +1,17 @@
+{
+  "name": "demo-home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "api": "npx mocha Tests --timeout=10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "npx": "^10.2.2",
+    "pactum": "^3.6.7"
+  }
+}

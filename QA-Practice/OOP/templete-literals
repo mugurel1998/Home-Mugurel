@@ -1,0 +1,12 @@
+
+
+const firstName = 'Valentin'
+const age = 21
+
+const sentence = "Hello, I am "+firstName + " and I am "+ age+ "years old";
+const sentence2= `Hello, I am ${firstName} and I am ${age} years old`;// template literals
+
+
+
+console.log(sentence);
+console.log(sentence2);
