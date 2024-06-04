@@ -1,4 +1,3 @@
-Home-Mugurel: 
 A Comprehensive Repository for Learning and Practice
 This repository serves as a valuable resource for enhancing your skills in various areas of software development and testing. It comprises two distinct folders, each dedicated to a specific domain:
 
