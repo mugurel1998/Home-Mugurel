@@ -1,4 +1,5 @@
 A Comprehensive Repository for Learning and Practice
+
 This repository serves as a valuable resource for enhancing your skills in various areas of software development and testing. It comprises two distinct folders, each dedicated to a specific domain:
 
 Exercises and Explorations: This folder houses a collection of exercises and practical examples designed to solidify your understanding of Cypress and Pactum.js. 
