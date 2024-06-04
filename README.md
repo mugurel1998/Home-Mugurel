@@ -1,6 +1,8 @@
 # Weather-App-Test
 A small app designed to show the current weather on any part of the world using OpenWeatherMap API
 
+![App preview](/docs/app_preview.png)
+
 ## Features
 * Showing weather on any part of the world
 * Small, cute design
